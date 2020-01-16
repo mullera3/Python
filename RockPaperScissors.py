@@ -1,3 +1,6 @@
+#RockPaperScissors Game
+#Created by Amani Muller
+
 from random import randint
 
 # Computer Moves 
